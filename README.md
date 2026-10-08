@@ -315,7 +315,7 @@ endmodule
 
 --------
 
-**5. (BONUS) Implementati procesorul intr-un FPGA, folosind o freceventa a ceasului de 1Hz (printr-un divizor de ceas), si afisati valoarea semnalului **acc** pe un display cu 7 segmente.**
+**5. Implementati procesorul intr-un FPGA, folosind o freceventa a ceasului de 1Hz (printr-un divizor de ceas), si afisati valoarea semnalului **acc** pe un display cu 7 segmente.**
 
 ![alt text](img/7segment-diagram.png)
 
